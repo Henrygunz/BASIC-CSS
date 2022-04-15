@@ -1,0 +1,97 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+body  {
+
+    text-align: center;
+}
+
+div.first {
+    background-color: rgba(255, 19, 58, 0.61);
+    text-align: center;
+height: 450px;
+padding-top: 50px;
+}
+
+
+  h2{
+    font-family: sans-serif;
+    font-size: 1.8rem;
+    color: #ffffff;
+  }
+h2#skills{
+  color: rgb(79, 185, 199); 
+  margin: 15px; 
+}
+  
+  h1 {
+    font-family: "Sacramento", cursive;
+    font-size: 5rem;
+    color: white;
+  }
+
+div.second{
+    text-align: center;
+    padding: 30px 0;
+    display: block;
+    justify-content: space-around;
+    line-height: 2rem;
+}
+h3#pro{
+    color: rgb(43, 176, 228); 
+    margin: 15px;
+}
+h3#dev{
+    color: rgb(43, 176, 228); 
+    margin: 15px;
+
+}
+
+div.third{
+    background-color: rgba(255, 19, 58, 0.61);
+    text-align: center;
+height: 200px;
+position: relative;
+padding-top: 50px;
+  
+}
+
+h2#services{
+    color: white ;
+    margin: 15px;
+}
+
+
+
+div.fourth{
+    text-align: center;
+}
+h2#love{
+    color: rgb(43, 176, 228); 
+    margin: 15px;
+
+}
+
+h3#get{
+    color: rgb(43, 176, 228); 
+    margin: 15px;
+}
+
+div.fifth{
+    color: #ffffff;
+    background-color:rgba(255, 19, 58, 0.61);
+height: 50px;
+position: relative;
+padding-top: 50px;
+}
+
+#Submit_button {
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    background-color: rgba(255, 19, 58, 0.61);
+    color: white;
+  }
