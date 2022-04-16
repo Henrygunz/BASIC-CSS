@@ -7,21 +7,27 @@
 body  {
 
     text-align: center;
+    font-family: ;
 }
 
-div.first {
+.first {
     background-color: rgba(255, 19, 58, 0.61);
-    text-align: center;
-height: 450px;
+    position: relative;
 padding-top: 50px;
 }
-
+.image1{
+    padding: 100px 0;
+    display: flex;
+    justify-content: space-around;
+    line-height: 2rem;
+}
 
   h2{
     font-family: sans-serif;
     font-size: 1.8rem;
     color: #ffffff;
   }
+
 h2#skills{
   color: rgb(79, 185, 199); 
   margin: 15px; 
@@ -33,59 +39,53 @@ h2#skills{
     color: white;
   }
 
-div.second{
-    text-align: center;
+.second{
     padding: 30px 0;
     display: block;
     justify-content: space-around;
     line-height: 2rem;
 }
-h3#pro{
+#pro{
     color: rgb(43, 176, 228); 
     margin: 15px;
 }
-h3#dev{
+#dev{
     color: rgb(43, 176, 228); 
     margin: 15px;
 
 }
 
-div.third{
+.third{
     background-color: rgba(255, 19, 58, 0.61);
-    text-align: center;
 height: 200px;
 position: relative;
 padding-top: 50px;
   
 }
 
-h2#services{
+#services{
     color: white ;
-    margin: 15px;
 }
 
 
 
-div.fourth{
-    text-align: center;
-}
-h2#love{
+
+#love{
     color: rgb(43, 176, 228); 
-    margin: 15px;
+
 
 }
 
-h3#get{
+#get{
     color: rgb(43, 176, 228); 
-    margin: 15px;
+
 }
 
-div.fifth{
+.fifth{
     color: #ffffff;
     background-color:rgba(255, 19, 58, 0.61);
-height: 50px;
-position: relative;
-padding-top: 50px;
+padding: 50px 0;
+line-height: 2;
 }
 
 #Submit_button {
